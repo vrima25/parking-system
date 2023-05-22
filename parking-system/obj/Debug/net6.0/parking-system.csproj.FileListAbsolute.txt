@@ -1,0 +1,15 @@
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/bin/Debug/net6.0/parking-system
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/bin/Debug/net6.0/parking-system.deps.json
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/bin/Debug/net6.0/parking-system.runtimeconfig.json
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/bin/Debug/net6.0/parking-system.dll
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/bin/Debug/net6.0/ref/parking-system.dll
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/bin/Debug/net6.0/parking-system.pdb
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/obj/Debug/net6.0/parking-system.csproj.AssemblyReference.cache
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/obj/Debug/net6.0/parking-system.GeneratedMSBuildEditorConfig.editorconfig
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/obj/Debug/net6.0/parking-system.AssemblyInfoInputs.cache
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/obj/Debug/net6.0/parking-system.AssemblyInfo.cs
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/obj/Debug/net6.0/parking-system.csproj.CoreCompileInputs.cache
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/obj/Debug/net6.0/parking-system.dll
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/obj/Debug/net6.0/ref/parking-system.dll
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/obj/Debug/net6.0/parking-system.pdb
+/home/vrima/vrima/Enigma/TEST/NTT DIGITAL/parking-system/parking-system/obj/Debug/net6.0/parking-system.genruntimeconfig.cache
